@@ -5,6 +5,7 @@
 ![alt text](./CareerDevelopment.png)
 
 ### Reflection:
+
 text
 ----------------------------------------------------
 ## Skills and Interests:
@@ -12,6 +13,7 @@ text
 ![alt text](./SkillsAndInterests.png)
 
 ### Reflection:
+
 text
 ----------------------------------------------------
 ## Personality Assessment
@@ -19,6 +21,7 @@ text
 ![alt text](./PersonalityAssessment.png)
 
 ### Refelection:
+
 text
 ----------------------------------------------------
 ## Create CV
@@ -26,6 +29,7 @@ text
 ![alt text](./CreateaCV.png)
 
 ### Reflection:
+
 text
 ---------------------------------------------------
 ## CV Submission
@@ -33,6 +37,7 @@ text
 ![alt text](./CVsubmission.png)
 
 ### Refcletion: 
+
 text
 
 
