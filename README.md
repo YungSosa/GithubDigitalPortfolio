@@ -2,6 +2,6 @@
 ## Career Couenselling
 ### Evidence:
 
-![alt text](./image.jpg)
+![alt text](./CareerDevelopment.png)
 
 ### Reflection:
