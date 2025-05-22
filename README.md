@@ -2,6 +2,6 @@
 ## Career Couenselling
 ### Evidence:
 
-<img src="img_girl.jpg" alt="Girl in a jacket"/>
+<img src="CareerDevelopment.png" alt="Girl in a jacket"/>
 
 ### Reflection:
