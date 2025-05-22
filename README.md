@@ -13,6 +13,27 @@ text
 
 ### Reflection:
 text
+----------------------------------------------------
+## Personality Assessment
+### Evidence:
+![alt text](./PersonalityAssessment.png)
+
+### Refelection:
+text
+----------------------------------------------------
+## Create CV
+### Evidence:
+![alt text](./CreateaCV.png)
+
+### Reflection:
+text
+---------------------------------------------------
+## CV Submission
+### Evidence:
+![alt text](./CVsubmission.png)
+
+### Refcletion: 
+text
 
 
 
