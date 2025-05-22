@@ -1,5 +1,5 @@
 # GithubDigitalPortfolio
 ##Career Couenselling
 ###Evidence:
-![Career Counselling](career development.png)
+<img src="img_girl.jpg" alt="Girl in a jacket"
 ###Reflection:
