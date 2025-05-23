@@ -13,7 +13,7 @@
 
 **Result**: I answered every quiz question correctly, showing my understanding of career development fundamentals. 
 
-----------------------------------------------------
+
 ## Skills and Interests:
 ### Evidence:
 ![alt text](./SkillsAndInterests.png)
@@ -27,7 +27,7 @@
 
 **Result**: I successfully achieved a 100% score on the quiz and had a better understanding of how values can guide career decisions, how interests can suggest potential job satisfaction, and how transferable skills can provide flexibility in the job market. 
 
-----------------------------------------------------
+
 ## Personality Assessment
 ### Evidence:
 ![alt text](./PersonalityAssessment.png)
@@ -41,7 +41,7 @@
 
 **Result**: I achieved a 100% score, which confirmed my understanding of the connection between personality and career planning. 
 
-----------------------------------------------------
+
 ## Create CV
 ### Evidence:
 ![alt text](./CreateaCV.png)
@@ -55,7 +55,7 @@
 
 **Result**: I achieved a 100% score, which reflected my understanding of CV writing. This process helped me structure my own CV more effectively.
 
----------------------------------------------------
+
 ## CV Submission
 ### Evidence:
 ![alt text](./CVsubmission.png)
