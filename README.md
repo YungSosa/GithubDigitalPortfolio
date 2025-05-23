@@ -5,8 +5,9 @@
 ![alt text](./CareerDevelopment.png)
 
 ### Reflection:
-**Situation**: I had to finish a career counselling module as part of the work preparation training, which also had a quiz to test myself.  
-**Task**: I had to do a quiz with multiple-choice questions and I had to show that I understood the fundamentals of career development
+**Situation**: I had to finish a career counselling module as part of the work preparation training, which also had a quiz to test myself.
+
+**Task**: I had to do a quiz with multiple-choice questions and I had to show that I understood the fundamentals of career development.
 .
 **Action**: I studied the course material, paying close attention to the goals of professional goal-setting, the results of career counselling, and the distinction between hard and soft skills. 
 
